@@ -8,4 +8,4 @@ Visualization of Advent of Code problems using Jetpack Compose.
 
 Run src/main/kotlin/year2021.day15/Main.kt to render following pathfinding visualization:
 
-![](src/main/resources/15/2021_15_%20Chiton_sample.png)
+![](https://github.com/b4ob4b/aoc_visualization/blob/main/src/main/resources/year2021/15/2021_15_%20Chiton_sample.png?raw=true)
