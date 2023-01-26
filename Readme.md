@@ -16,3 +16,7 @@ Run [src/main/kotlin/year2021/day15/Main.kt](https://github.com/b4ob4b/aoc_visua
 
 Run [src/main/kotlin/year2022/day12/Main.kt](https://github.com/b4ob4b/aoc_visualization/blob/main/src/main/kotlin/year2022/day12/Main.kt#L24) to see a breadth first search algorithm to find the shortest path between the lowest and hightest point:
 ![](https://github.com/b4ob4b/aoc_visualization/blob/main/src/main/resources/year2022/12/2022_12.gif?raw=true)
+
+[Day 14: Regolith Reservoir](https://adventofcode.com/2022/day/14)
+
+![](https://github.com/b4ob4b/aoc_visualization/blob/main/src/main/resources/year2022/14/2022_14.gif?raw=true)
